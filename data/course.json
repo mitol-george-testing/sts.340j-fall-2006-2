@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e950e033-9524-c600-2449-fe5276f40a3c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to the History of Technology",
+  "course_description": "This course is an introduction to the consideration of technology as the outcome of particular technical, historical, cultural, and political efforts, especially in the United States during the 19th and 20th centuries. Topics include industrialization of production and consumption, development of engineering professions, the emergence of management and its role in shaping technological forms, the technological construction of gender roles, and the relationship between humans and machines.\n",
+  "department_numbers": [
+    "STS",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.52J",
+  "primary_course_number": "STS.340J",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
